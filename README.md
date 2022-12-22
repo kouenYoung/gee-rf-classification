@@ -16,7 +16,9 @@ A walk-through on taking classification samples:
 2. On the top left corner, hit "Add a marker";
 3. As shown below, in the setting of the marker geomtry, choose import as FeatureCollection and add a "landcover" property with an unique integer value that varies by class (e.g. water = 1, cropland = 2, etc.).
 
-![Sampling](/screenshots/sampling.png =250x250)
+![Sampling](/screenshots/sampling.png)
+
+<img src="/screenshots/sampling.png" width="100" height="100" />
 
 ## Contributing
 Pull requests and questions are welcome at anytime.
