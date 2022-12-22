@@ -18,7 +18,7 @@ A walk-through on taking classification samples:
 
 ![Sampling](/screenshots/sampling.png)
 
-<img src="/screenshots/sampling.png" width="100" height="100" />
+<img src="/screenshots/sampling.png" width="200" height="200" />
 
 ## Contributing
 Pull requests and questions are welcome at anytime.
