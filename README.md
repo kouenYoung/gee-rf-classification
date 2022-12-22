@@ -2,7 +2,7 @@
 
 This script provides a demo on how to train and test a Random Forest Classifier using Google Earth Engine (GEE) Code Editor. 
 
-The classification task involes 3 classes (water, forest, household) and geographic samples taken from Middlesex County, CT, with data provided by Sentinel-2 (S2).
+The classification task involes 3 classes (water, forest, household) and geographic samples (60 * 3) taken from Middlesex County, CT, with data provided by Sentinel-2 (S2).
 
 ![Result](/screenshots/result.png)
 
